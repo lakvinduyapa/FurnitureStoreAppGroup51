@@ -1,3 +1,4 @@
+//You must to install and use OpenJDK version 11 to run this application
 package raven.application;
 
 import com.formdev.flatlaf.FlatLaf;
