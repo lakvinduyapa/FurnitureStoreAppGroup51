@@ -22,10 +22,8 @@ public class LoginForm extends javax.swing.JPanel {
         login.setLayout(new LoginLayout());
         lbTitle.putClientProperty(FlatClientProperties.STYLE, ""
                 + "font:$h1.font");
-        login.putClientProperty(FlatClientProperties.STYLE, ""
-                + "background:$Login.background;"
-                + "arc:20;"
-                + "border:30,40,50,30");
+        login.putClientProperty( FlatClientProperties.STYLE,
+                "background:#C98D02;arc:20;border:30,40,50,30" );
 
         txtPass.putClientProperty(FlatClientProperties.STYLE, ""
                 + "showRevealButton:true;"
