@@ -4,7 +4,7 @@
 //
 //import javax.swing.*;
 //
-////Group 13 - Furniture Store App
+////Group 51 - Furniture Store App
 //public class FormChairsStandard extends javax.swing.JPanel {
 //
 //    public FormChairsStandard() {
